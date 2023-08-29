@@ -2,7 +2,6 @@ numpy
 plotly
 pandas
 datetime
-warnings
 scipy
 IPython
 ipywidgets
