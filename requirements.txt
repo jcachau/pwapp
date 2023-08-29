@@ -1,1 +1,11 @@
-
+numpy
+plotly
+random
+pandas
+datetime
+time
+warnings
+scipy
+IPython
+ipywidgets
+voila
