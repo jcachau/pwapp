@@ -1,6 +1,5 @@
 numpy
 plotly
-random
 pandas
 datetime
 time
